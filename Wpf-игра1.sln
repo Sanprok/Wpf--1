@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf-игра1", "Wpf-игра1\Wpf-игра1.csproj", "{35098298-CCC8-4A13-B0B0-45E704960CAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35098298-CCC8-4A13-B0B0-45E704960CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35098298-CCC8-4A13-B0B0-45E704960CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35098298-CCC8-4A13-B0B0-45E704960CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35098298-CCC8-4A13-B0B0-45E704960CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1924D478-D9AD-4818-8260-AD83B34A4549}
+	EndGlobalSection
+EndGlobal
